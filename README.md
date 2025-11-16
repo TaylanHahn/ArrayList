@@ -192,4 +192,10 @@ public class Cadastro {
 - `For-each` para leitura, `for` tradicional para edição.
 - Funciona igual dentro da classe, fora da classe e no mesmo pacote.
   
+----------------------------------------------------------------------------------
 
+### ✅ Código de exemplo (Main + 3 Classes)
+- Classe Pessoa – representa um objeto.
+- Classe Cadastro – gerencia um ArrayList de Pessoa.
+- Classe Utils – contém métodos utilitários que recebem/retornam ArrayList.
+- Classe Main – demonstra tudo funcionando.
