@@ -88,7 +88,7 @@ for (Pessoa p : pessoas) {
     System.out.println(nomeFormatado);
 }
 ````
-## 14. Usar de ArrayList dentro da própria classe
+## 14. Usar ArrayList dentro da própria classe
 ````java
 public class Turma {
 
@@ -105,7 +105,7 @@ public class Turma {
     }
 }
 ````
-## 15. Usar de ArrayList em outra classe (mesmo pacote/pasta)
+## 15. Usar ArrayList em outra classe (mesmo pacote/pasta)
 Classe A:
 ````java
 public class BancoDeDados {
