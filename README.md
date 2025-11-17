@@ -1,4 +1,4 @@
-# ☕ JAVA | Resumo de ArrayList
+# ☕ Resumo de ArrayList
 
 ## 1. Criar um ArrayList
 ````java
